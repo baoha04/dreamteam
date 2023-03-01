@@ -123,6 +123,7 @@ html{
 #menu-btn .subnav li:hover a{
     color: #000;
     background-color: #ccc;
+    cursor: pointer;
 }
 #menu-btn li a  {
     text-decoration: none;
